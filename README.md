@@ -9,7 +9,7 @@ Nim : 312510359
 </ol><br><br>
 <h2>LATIHAN 1</h2>
 <h3>DALAM PYHTON</h3>
-<img src="https://github.com/irvanwahyudin01/labpy03/blob/main/latihan_per7/latihan1.png" width="230" height="350">
+<img src="https://github.com/irvanwahyudin01/labpy03/blob/main/latihan_per7/latihan1.png" width="330" height="450">
 <h3>PENJELASAN SETIAP CODE</h3>
 <ol><p><img src="https://github.com/irvanwahyudin01/labpy03/blob/main/latihan_per7/latihan1.1.png" width="250" height="150">
 <li>Pertama kita masukan libry fungsi acak pada python dengan menuliskan import random.</li></p>
@@ -26,7 +26,7 @@ Nim : 312510359
   
 <h2>LATIHAN 2</h2>
 <h3>DALAM PYHTON</h3>
-<img src="https://github.com/irvanwahyudin01/labpy03/blob/main/latihan_per7/latihan2.png" width="230" height="350">
+<img src="https://github.com/irvanwahyudin01/labpy03/blob/main/latihan_per7/latihan2.png" width="330" height="450">
 <h3>PENJELASAN SETIAP CODE</h3>
 <ol><p><img src="https://github.com/irvanwahyudin01/labpy03/blob/main/latihan_per7/latihan2.1.png" width="250" height="150">
 <li>Langkah pertama kita membuat variabel-variabel apa saja yang dibutuhkan dan dikasih nilai.</li></p>
@@ -36,3 +36,21 @@ Nim : 312510359
 <li>Dan yang terakhir kita tampilkan total laba yang didapat dengan memangil variable total_laba.</li></p> <br> </ol>
 <h3>DOKUMENTASI SAAT PROGRAM DIJALANKAN</h3>
 <P><img src="https://github.com/irvanwahyudin01/labpy03/blob/main/latihan_per7/latihan2.4.png" width="250" height="150"></P>
+<br><br>
+
+<h2>LATIHAN 3</h2>
+<h3>DALAM PYHTON</h3>
+<img src="https://github.com/irvanwahyudin01/labpy03/blob/main/latihan_per7/latihan3.png" width="330" height="450">
+<h3>PENJELASAN SETIAP CODE</h3>
+<ol><p><img src="https://github.com/irvanwahyudin01/labpy03/blob/main/latihan_per7/latihan3.1.png" width="250" height="150">
+<li>Sesuai soal kita buat variabel saldo dengan nilai 100000.</li></p>
+<p><img src="https://github.com/irvanwahyudin01/labpy03/blob/main/latihan_per7/latihan3.2.png" width="250" height="150"><li>Dan kita tampilkan informasi program apa yang akan dijalankan, selanjutnya kita buatkan input untuk menentukan si user ini mau tari uang atau mau keluar program jangan lupa tetapkan type datanya ke integer.</li></p> <br> 
+<p><img src="https://github.com/irvanwahyudin01/labpy03/blob/main/latihan_per7/latihan3.3.png" width="250" height="150"><li>disini kita menggunakan perulangan while jadi selama user memilih 1 program dibawahnya akan terus jalan, lanjut dalam program perulangan kita pastikan dulu kalau di user saldonya tidak 0 dengan kondisi if saldo !=0, jika ya kita akan berikan inputan berapa sih yang mau di tarik?, kita simpan di variabel tarik.</li></p>
+<p><img src="https://github.com/irvanwahyudin01/labpy03/blob/main/latihan_per7/latihan3.4.png" width="250" height="150"><li>Lanjut kita juga harus pastikan bahwa untuk menarik saldo itu tidak lebih dari saldo yang di punya maka if tarik <= saldo saldo akan terpotong dengan perintah saldo -= tarik dan dilanjutkan penampilan awal dengan saldo yang sudah terpotong, tetapi jika tidak kita tampilkan bahwa saldo anda tidak cukup dan kita kasih tampilan awal beserta saldonya.</li></p>
+<p><img src="https://github.com/irvanwahyudin01/labpy03/blob/main/latihan_per7/latihan3.5.png" width="250" height="150"><li>Dan else ini adalah saat program identifikasi if pertama jika saldo nya kosong akan menjalankan program ini.</li></p>
+<p><img src="https://github.com/irvanwahyudin01/labpy03/blob/main/latihan_per7/latihan3.6.png" width="250" height="150"><li>Terakhir kita tambahkan kondisi jika user ingin memilih keluar, dan kita tampilkan terimakasih.</li>
+<li>Terus kita buat nilai acak/random di variabel acak dilanjut dengan pemanggilan fungsi random.</li></p></ol>
+<h3>DOKUMENTASI SAAT PROGRAM DIJALANKAN</h3>
+<P><img src="https://github.com/irvanwahyudin01/labpy03/blob/main/latihan_per7/latihan3.7.png" width="250" height="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/irvanwahyudin01/labpy03/blob/main/latihan_per7/latihan3.8.png" width="250" height="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/irvanwahyudin01/labpy03/blob/main/latihan_per7/latihan3.9.png" width="250" height="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/irvanwahyudin01/labpy03/blob/main/latihan_per7/latihan3.9.1.png" width="250" height="150"></P>
